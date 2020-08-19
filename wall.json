@@ -1,5 +1,4 @@
-{
-    "wallpapers" : [
+	[
 	    {
             "name" : "Camping",
             "description" : "There's many reasons I love camping when I travel. Some are to do with the idealised romance of camping, such as sleeping out under the stars, and being alone in nature.",
@@ -299,4 +298,3 @@
             "category" : "Minimal"
         }
     ]
-}
