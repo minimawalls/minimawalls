@@ -1,5 +1,41 @@
 	[
 	{
+            "name" : "Sand Bucket",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_59.png",
+            "category" : "Minimal"
+        },
+	{
+            "name" : "Table",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_58.png",
+            "category" : "Minimal"
+        },
+	{
+            "name" : "Squirrel",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_57.png",
+            "category" : "Animals"
+        },
+	{
+            "name" : "Pattern",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_56.png",
+            "category" : "Pattern"
+        },
+	{
+            "name" : "Window",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_55.png",
+            "category" : "Buildings"
+        },
+	{
+            "name" : "Dino",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_54.png",
+            "category" : "Animals"
+        },
+	{
             "name" : "Flowers",
             "description" : "There's many reasons I love camping when I travel. Some are to do with the idealised romance of camping, such as sleeping out under the stars, and being alone in nature.",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_53.png"
