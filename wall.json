@@ -1,5 +1,29 @@
 	[
 	{
+            "name" : "Camel",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_63.png",
+            "category" : "Minimal"
+        },
+	{
+            "name" : "Water Filter",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_62.png",
+            "category" : "Minimal"
+        },
+	{
+            "name" : "Hare with Carrot",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_61.png",
+            "category" : "Minimal"
+        },
+	{
+            "name" : "Judge",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_60.png",
+            "category" : "Minimal"
+        },
+	{
             "name" : "Sand Bucket",
             "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_59.png",
