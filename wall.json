@@ -1,5 +1,41 @@
 	[
 	{
+            "name" : "Dicraeosaurus",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_69.png",
+            "category" : "Building"
+        },
+	{
+            "name" : "River boat",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_68.png",
+            "category" : "Building"
+        },
+	{
+            "name" : "Wooden boat",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_67.png",
+            "category" : "Building"
+        },
+	{
+            "name" : "Whater wheel mill",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_66.png",
+            "category" : "Building"
+        },
+	{
+            "name" : "Wind turbine Plant",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_65.png",
+            "category" : "Building"
+        },
+	{
+            "name" : "Balcony",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_64.png",
+            "category" : "Building"
+        },
+	{
             "name" : "Camel",
             "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_63.png",
