@@ -1,5 +1,29 @@
 	[
 	{
+            "name" : "Doctor Boy",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_73.png",
+            "category" : "Covid"
+        },
+	{
+            "name" : "Doctor Girl",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_72.png",
+            "category" : "Covid"
+        },
+	{
+            "name" : "Walking with mask",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_71.png",
+            "category" : "Covid"
+        },
+	{
+            "name" : "Shopping with mask",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_70.png",
+            "category" : "Covid"
+        },
+	{
             "name" : "Dicraeosaurus",
             "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_69.png",
