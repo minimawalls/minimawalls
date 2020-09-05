@@ -1,5 +1,29 @@
 	[
 	{
+            "name" : "Church",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_77.png",
+            "category" : "Buildings"
+        },
+	{
+            "name" : "Window overlooking city",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_76.png",
+            "category" : "Buildings"
+        },
+	{
+            "name" : "Table with mirror",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_75.png",
+            "category" : "Furniture"
+        },
+	{
+            "name" : "Sea turtle",
+            "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_74.png",
+            "category" : "Animal"
+        },
+	{
             "name" : "Doctor Boy",
             "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_73.png",
