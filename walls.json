@@ -1,5 +1,25 @@
 	[
 	{
+            "name" : "Ocean view",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_81.png",
+            "category" : "Nature"
+        },
+	{
+            "name" : "Boat on beach",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_80.png",
+            "category" : "Nature"
+        },
+	{
+            "name" : "Street lamp",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_79.png",
+            "category" : "Building"
+        },
+	{
+            "name" : "Reed Plants",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_78.png",
+            "category" : "Plants"
+        },
+	{
             "name" : "Church",
             "description" : "The lighthouse does great service to humanity, yet it is the slave of those who trim the lamps.",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_77.png",
