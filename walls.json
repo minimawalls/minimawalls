@@ -1,5 +1,55 @@
 	[
 	{
+            "name" : "Umbrella",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_91.png",
+            "category" : "Minimal"
+        },
+	{
+            "name" : "Newspaper",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_90.png",
+            "category" : "Minimal"
+        },
+	{
+            "name" : "Winter mountains Alt 1",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_89.png",
+            "category" : "Winter"
+        },
+	{
+            "name" : "Winter mountains Alt",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_88.png",
+            "category" : "Winter"
+        },
+	{
+            "name" : "Rocky Island",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_87.png",
+            "category" : "Nature"
+        },
+	{
+            "name" : "Mountain House",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_86.png",
+            "category" : "Nature"
+        },
+	{
+            "name" : "Winter House",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_85.png",
+            "category" : "Winter"
+        },
+	{
+            "name" : "Winter Mountains",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_84.png",
+            "category" : "Winter"
+        },
+	{
+            "name" : "Winter Season",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_83.png",
+            "category" : "Winter"
+        },
+	{
+            "name" : "Winter Forest",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_82.png",
+            "category" : "Winter"
+        },
+	{
             "name" : "Ocean view",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_81.png",
             "category" : "Nature"
