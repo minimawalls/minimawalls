@@ -1,4 +1,24 @@
-	[
+	[{
+            "name" : "Tent on the shore",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_96.png",
+            "category" : "Minimal"
+        },{
+            "name" : "Electric Kettle",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_95.png",
+            "category" : "Minimal"
+        },{
+            "name" : "Seamless Pattern",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_94.png",
+            "category" : "Pattern"
+        },{
+            "name" : "The Desert",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_93.png",
+            "category" : "Nature"
+        },{
+            "name" : "Mountain Peak",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_92.png",
+            "category" : "Nature"
+        },
 	{
             "name" : "Umbrella",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_91.png",
