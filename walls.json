@@ -1,4 +1,24 @@
 	[{
+            "name" : "House in mountains",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_99.png",
+            "category" : "Buildings"
+        },{
+            "name" : "Railway",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_100.png",
+            "category" : "Minimal"
+        },{
+            "name" : "Country House",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_99.png",
+            "category" : "Buildings"
+        },{
+            "name" : "Dragonfly",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_98.png",
+            "category" : "Minimal"
+        },{
+            "name" : "Santa climbing chimney",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_97.png",
+            "category" : "Minimal"
+        },{
             "name" : "Tent on the shore",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_96.png",
             "category" : "Minimal"
