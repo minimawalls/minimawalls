@@ -1,5 +1,30 @@
 	[
 {
+            "name" : "Winter",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_139.png",
+            "category" : "Winter"
+        },
+{
+            "name" : "Winter",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_138.png",
+            "category" : "Winter"
+        },
+{
+            "name" : "Winter",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_137.png",
+            "category" : "Winter"
+        },
+{
+            "name" : "Christmas Tree 1",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_136.png",
+            "category" : "Christmas"
+        },
+{
+            "name" : "Christmas Tree",
+            "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_135.png",
+            "category" : "Christmas"
+        },
+{
             "name" : "Christmas",
             "url" : "https://raw.githubusercontent.com/wall-wall/wall/master/wall_134.png",
             "category" : "Christmas"
